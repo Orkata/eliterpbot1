@@ -12,7 +12,7 @@ client.on('message', msg => {
   }
 });
 
-client.login('ODA5MDY2MzE0MTEwMDc0OTYw.YCPruQ.G8qY0AHJCiYPFItk5DZ1fIjn75Q');
+client.login('ODA5MDY2MzE0MTEwMDc0OTYw.YCPruQ.U7DJvoQGQ7D8necxBKHdxLOHNxc');
 
 
 client.on('ready', () => {
